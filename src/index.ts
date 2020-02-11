@@ -17,4 +17,4 @@ export class NodeJwtLayer extends LayerVersion {
   }
 }
 
-export default NodePostgresLayer;
+export default NodeJwtLayer;
